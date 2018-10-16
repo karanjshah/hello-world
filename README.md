@@ -1,2 +1,4 @@
 # hello-world
-This is Sample Project for testing purpose
+This project is created for learning how to use git.
+
+Thank you!
